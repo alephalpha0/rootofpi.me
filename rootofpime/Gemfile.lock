@@ -15,7 +15,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (1.8.5)
       concurrent-ruby (~> 1.0)
-    jekyll (4.0.0)
+    jekyll (4.0.1)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -33,8 +33,6 @@ GEM
     jekyll-analytics (0.1.14)
     jekyll-compose (0.12.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-docs (4.0.0)
-      jekyll (= 4.0.0)
     jekyll-feed (0.15.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-gallery-generator (1.2.3)
@@ -76,22 +74,30 @@ GEM
       ffi (~> 1.9)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
+    thread_safe (0.3.6)
+    tzinfo (1.2.7)
+      thread_safe (~> 0.1)
+    tzinfo-data (1.2020.1)
+      tzinfo (>= 1.0.0)
     unicode-display_width (1.7.0)
+    wdm (0.1.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 4.0.0)
+  jekyll (~> 4.0.0)
   jekyll-analytics
   jekyll-compose
-  jekyll-docs
   jekyll-feed
   jekyll-gallery-generator
   jekyll-paginate-v2
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-timeago
+  tzinfo (~> 1.2)
+  tzinfo-data
+  wdm (~> 0.1.1)
 
 BUNDLED WITH
    2.1.4
