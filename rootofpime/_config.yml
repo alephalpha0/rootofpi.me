@@ -7,20 +7,82 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            'rootofpi.me'
+email: 'alephalpha0@rootofpi.me'
+tagline:          'Transmissions from space.'
+description:      'The personal site of DK. Blog, Photo Manipulation, Coding Practice.'
+url:              https://rootofpi.me
 baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
+ 
 paginate:         5
+
+## DEFAULT WHERE ARE THEY?
+source: .
+destination: ./_site
+collections_dir: .
+plugins_dir: _plugins/
+layouts_dir: _layouts/
+data_dir: _data/
+includes_dir: _includes/
+collections:
+  posts:
+    output: true
+  scripts:
+    output: true
+  gallery:
+    output: true
+
+## HANDLING READING
+safe: false
+include: [".htaccess"]
+keep_files: [".git", ".svn"]
+encoding: "utf-8"
+markdown_ext: 'markdown.mkdown.mkdn.mkd.md'
+strict_front_matter: false
+
+## FILTERING CONTENT
+show_drafts: null
+limit_posts: 0
+future: false
+unpublished: false
+
+## PLUGINS
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-compose
+  - jekyll-paginate-v2
+  - jekyll-gallery-generator
+  - jekyll-analytics
+  - jekyll-timeago
+  - jekyll-sitemap  
+whitelist:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-compose
+  - jekyll-paginate-v2
+  - jekyll-gallery-generator
+  - jekyll-analytics
+  - jekyll-timeago
+  - jekyll-sitemap
+
+
 
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/

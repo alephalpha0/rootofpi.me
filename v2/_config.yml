@@ -1,0 +1,46 @@
+#SETUP
+title: 'rootofpi.me'
+email: 'alephalpha0@rootofpi.me'
+url: "http://rootofpi.me"
+baseurl: "/"
+tagline: "Transmissions from space."
+description: "Personal website of DK. Blog, Photo Manipulation, Gallery, Coding Fluffery."
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+#DEPENDENCIES
+markdown: kramdown
+highlighter: rouge
+
+#PERMALINKS
+permalink: pretty
+
+#PLUGINS
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-compose
+  - jekyll-gallery-generator
+  - jekyll-analytics
+  - jekyll-timeago
+  - jekyll-sitemap
+Whitelist:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-compose
+  - jekyll-paginate-v2
+  - jekyll-gallery-generator
+  - jekyll-analytics
+  - jekyll-timeago
+  - jekyll-sitemap
+
+# GALLERY
+gallery:
+  dir: photos
+  symlink: false
+  title: "Digital Optical Traces"
+  title_prefix: "gallery: "
+  sort_field: "date_time"
+  thumbnail_size:
+    x: 400
+    y: 400
