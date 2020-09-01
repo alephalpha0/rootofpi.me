@@ -1,7 +1,7 @@
 ---
 layout: page
 title: rootofpi.me --version
-permalink: /about/
+permalink: /about.html
 ---
 
 Originiated circa 2003, Rootofpi has been the digital self-curated domain of DK3. 
