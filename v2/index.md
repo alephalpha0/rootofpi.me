@@ -13,4 +13,4 @@ permalink: /
 + .) Coded programs and experiments.  
 
 #### Files, entries, and categories will be added as they are produced.  
-#### This content is incredibly explicit at times. We recommend and encourage only those beings above their local age of consent access this site and its archives. 
+###### This content is incredibly explicit at times. We recommend and encourage only those beings above their local age of consent access this site and its archives. 

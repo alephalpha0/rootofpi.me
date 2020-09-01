@@ -1,5 +1,11 @@
 ---
-frontmatter at another time
+layout: post
+title: 'Clarity Statement'
+tags: ['methful life', 'manifesto', 'space cowboy', 'queer, not gay']
+date: 2020-08-23
+time: 02:34:37
+excerpt: 'This is my story. There are many like it, but this one is mine.'
+location: "Aboard the goodship replicantArray."
 ---
 
 ### > '9 times out of 10, our hearts just get dissolved. I want a better place, or just a better way to fall.' -- Issac Brock. 

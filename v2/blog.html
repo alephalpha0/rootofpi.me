@@ -1,0 +1,16 @@
+---
+layout: default
+title: rootofpi.me --log
+permalink /blog.html
+---
+
+<h1>Data logs: current decoded.</h1>
+
+<ul>
+	{% for post in site.posts %}
+		<li>
+			<h3><a href="{{ post.url}}">{{ post.date }} :: {{ post.title }}</a></h3>
+			<span id="post-excerpt">{{ post.excerpt }}</span>
+		</li>
+	{% endfor %}
+</ul>
