@@ -7,9 +7,11 @@ tagline: "Transmissions from space."
 description: "Personal website of DK. Blog, Photo Manipulation, Gallery, Coding Fluffery."
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+timezone: America/Chicago
+strict_front_matter: true
 
 #DEPENDENCIES
-markdown: kramdown
+markdown: CommonMark
 highlighter: rouge
 
 #PERMALINKS
@@ -17,6 +19,7 @@ permalink: pretty
 
 #PLUGINS
 plugins:
+  - jekyll-commonmark
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-compose
@@ -24,7 +27,8 @@ plugins:
   - jekyll-analytics
   - jekyll-timeago
   - jekyll-sitemap
-Whitelist:
+whitelist:
+  - jekyll-commonmark
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-compose
@@ -33,6 +37,11 @@ Whitelist:
   - jekyll-analytics
   - jekyll-timeago
   - jekyll-sitemap
+
+#COMMONMARK
+commonmark:
+  options: ["SMART", "FOOTNOTES", "HARDBREAKS", "LIBERAL_HTML_TAG"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter", "tasklist"]
 
 # GALLERY
 gallery:
@@ -44,3 +53,12 @@ gallery:
   thumbnail_size:
     x: 400
     y: 400
+
+# POST FRONTMATTER DEFAULTS
+defaults:
+  - 
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"

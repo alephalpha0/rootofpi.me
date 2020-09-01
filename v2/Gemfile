@@ -3,6 +3,7 @@ source "https://rubygems.org"
 gem 'jekyll', '4.0.0'
 gem 'jekyll-docs'
 
+gem 'jekyll-commonmark', group: [:jekyll_plugins]
 gem 'jekyll-feed', group: [:jekyll_plugins]
 gem 'jekyll-seo-tag', group: [:jekyll_plugins]
 gem 'jekyll-compose', group: [:jekyll_plugins]
