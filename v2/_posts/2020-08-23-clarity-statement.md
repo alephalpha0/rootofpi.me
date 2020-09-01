@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 'Clarity Statement'
-tags: ['methful life', 'manifesto', 'space cowboy', 'queer, not gay']
+title: Clarity Statement
+tags: [methful life, manifesto, space cowboy, queer not gay]
 date: 2020-08-23
 time: 02:34:37
-excerpt: 'This is my story. There are many like it, but this one is mine.'
-location: "Aboard the goodship replicantArray."
+excerpt: This is my story. There are many like it, but this one is mine.
+description: The first of many drug fueled rants and long winded manifestos.
+location: Aboard the good ship replicantArray.
 ---
 
 ### > '9 times out of 10, our hearts just get dissolved. I want a better place, or just a better way to fall.' -- Issac Brock. 
