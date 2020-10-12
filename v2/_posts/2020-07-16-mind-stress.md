@@ -3,9 +3,8 @@ layout: post
 title: mind stress
 tags: [sobriety, mental state, love in the time of COVID19]
 date: 2020-07-16
-time: 13:14:15
+time: 13:14:15 -0500
 excerpt: Time slowly marches onward and I feel the slow passing of the seconds like knife cuts across my skin.
-description: Feeling down and out in the middle of quarantine. It doesn't feel like it'll pass.
 location: Lost in the bad neighborhood of my own thoughts and company.
 ---
 
