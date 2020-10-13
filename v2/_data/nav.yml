@@ -1,0 +1,14 @@
+nav_title: rootofpi.me
+nav:
+- title: home
+  url: index.html
+- title: about
+  url: about.html
+- title: manip
+  url: manipulation.html
+- title: photography
+  url: photography.html
+- title: blog
+  url: blog.html
+- title: links
+  url: links.html

@@ -1,12 +1,8 @@
 <div id="sidebar">
-	<a href="{% link index.md %}">/</a><BR />
-	<a href="{% link about.md %}">/about</a><BR />
-	Gallery:
-	<ul>
-		<li>Photo Manipulation</li>
-		<li><a href="/photos">/photos</a></li>
-	</ul>
-	<a href="{% link blog.html %}">/blog</a><BR />
+  <h2>{{ site.data.nav.nav_title }}</h2>
+  {% for item in site.data.nav.nav %}
+   <a href="{{ item.url }}">{{ item.title }}</a> <BR />
+  {% endfor %}
 	<BR />
-	rootofpi.me :: 2020
+	rootofpi :: 2020
 </div>

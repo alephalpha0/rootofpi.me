@@ -38,6 +38,12 @@ whitelist:
   - jekyll-timeago
   - jekyll-sitemap
 
+#TIMEAGO
+jekyll_timeago:
+  depth: 4
+  default_locale: 'en'
+  fallbacks: true
+
 #COMMONMARK
 commonmark:
   options: ["SMART", "FOOTNOTES", "HARDBREAKS", "LIBERAL_HTML_TAG"]

@@ -4,13 +4,16 @@ title: rootofpi.me --log
 permalink: /blog.html
 ---
 
-<h1>Data logs: current decoded.</h1>
+<h2>Data logs: current decoded.</h2>
+<h5><a href="{% link feed.xml %}">Atom Feed</a></h5>
 
 <ul>
 	{% for post in site.posts %}
 		<li>
-			<h3><a href="{{ post.url}}">{{ post.date }} :: {{ post.title }}</a></h3>
+			<span class="post-date">{{ post.date | date: "%F" }} :: <a href="{{ post.url }}">{{ post.title }}</a></span><BR />
 			<span id="post-excerpt">{{ post.excerpt }}</span>
+			<span><h6>@•° {{ post.location }}</h6></span>
 		</li>
+		<hr>
 	{% endfor %}
 </ul>
