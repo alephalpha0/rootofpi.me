@@ -1,8 +1,7 @@
 #SETUP
 title: 'rootofpi.me'
 email: 'alephalpha0@rootofpi.me'
-url: "http://rootofpi.me"
-baseurl: "/"
+url: "https://rootofpi.me"
 tagline: "Transmissions from space."
 description: "Personal website of DK. Blog, Photo Manipulation, Gallery, Coding Fluffery."
 encoding: "utf-8"
@@ -16,6 +15,10 @@ highlighter: rouge
 
 #PERMALINKS
 permalink: pretty
+
+#SERVING
+port: 4001
+baseurl: ""
 
 #PLUGINS
 plugins:
