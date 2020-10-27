@@ -26,7 +26,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-compose
-  - jekyll-gallery-generator
   - jekyll-analytics
   - jekyll-timeago
   - jekyll-sitemap
@@ -36,7 +35,6 @@ whitelist:
   - jekyll-seo-tag
   - jekyll-compose
   - jekyll-paginate-v2
-  - jekyll-gallery-generator
   - jekyll-analytics
   - jekyll-timeago
   - jekyll-sitemap
@@ -51,17 +49,6 @@ jekyll_timeago:
 commonmark:
   options: ["SMART", "FOOTNOTES", "HARDBREAKS", "LIBERAL_HTML_TAG"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter", "tasklist"]
-
-# GALLERY
-gallery:
-  dir: photos
-  symlink: false
-  title: "Digital Optical Traces"
-  title_prefix: "gallery: "
-  sort_field: "date_time"
-  thumbnail_size:
-    x: 400
-    y: 400
 
 # POST FRONTMATTER DEFAULTS
 defaults:

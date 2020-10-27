@@ -1,17 +1,15 @@
+# Folders to ignore
+node_modules
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
 .git/
-rootofpime/.jekyll-cache/
-rootofpime/.sass-cache/
-rootofpime/.jekyll-metadata
-rootofpi.me/_site/
-rootofpime/doc/
-v2/.jekyll-cache/
-v2/_site/
-v2/.jekyll-metadata
-v2/.sass-cache/
+doc/
 
 # Ignore docs files
 _gh_pages
-_site
 .ruby-version
 
 # Numerous always-ignore extensions
@@ -24,7 +22,6 @@ _site
 *.swp
 *.zip
 *.vi
-
 
 # OS or Editor folders
 .DS_Store
@@ -46,11 +43,3 @@ nbproject
 # grunt-html-validation
 validation-status.json
 validation-report.json
-
-# Folders to ignore
-node_modules
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor

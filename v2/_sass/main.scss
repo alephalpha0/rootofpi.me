@@ -54,9 +54,11 @@ h1 h2 h3 h4 h5 h6 {
 #footer {
     alignment: center;
 	position: absolute;
-	bottom: 0px;
-
+	bottom: 0%;
+    right: 0%;
+    left: 0%;
 	top:  100%;
+	width: 100%;
 	border-top:1px solid #ccc;
 	text-align: center;
 	image-align: center;
