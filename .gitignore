@@ -16,6 +16,7 @@ _gh_pages
 .ruby-version
 
 # Numerous always-ignore extensions
+*.zip
 *.diff
 *.err
 *.orig
