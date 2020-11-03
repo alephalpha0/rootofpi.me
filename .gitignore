@@ -8,6 +8,9 @@ vendor
 .git/
 doc/
 
+# General files
+CNAME
+
 # Ignore docs files
 _gh_pages
 .ruby-version
@@ -20,7 +23,6 @@ _gh_pages
 *.rej
 *.swo
 *.swp
-*.zip
 *.vi
 
 # OS or Editor folders
@@ -35,11 +37,3 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
-
-# Komodo
-*.komodoproject
-.komodotools
-
-# grunt-html-validation
-validation-status.json
-validation-report.json

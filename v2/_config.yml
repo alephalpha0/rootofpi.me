@@ -8,7 +8,7 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 timezone: America/Chicago
 strict_front_matter: true
-
+keep_files: [ CNAME ]
 #DEPENDENCIES
 markdown: CommonMark
 highlighter: rouge
