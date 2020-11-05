@@ -15,7 +15,7 @@ I could go on and on. The allure is strong and the pull is definitely real. My m
 
 **What do I stand to lose?** 
 + My Mother. Her willingness to help me. Her proximity to my being and soul. Her trust in my ability to grow up. 
-+ More of my teeth. Two down alread. A third on its way out.
++ More of my teeth. Two down already. A third on its way out.
 + What remains of my health. I'm bad at taking my HIV meds on my best of days. I think it's been about two months since I last took them. Two months of missed doses, on top of the months (?) during the end of last year. All i do is put meth into my body and barely eat. I don't work out or put any effort into maintaining my body OR mind. 
 + I haven't owned or driven my own car since... March or April of 2018. It is now **February 2020**. Going on TWO years now that I've been immobile and "self-stuck" in my same situation and location and quickly diminishing playground. 
 + I'm 35 and am severely lacking in very important areas of my life. I have $1.06 to my name and no prospects. I'm single and cannot fathom any kind of intimate relationship with another human being. My social skills revolve around drug use and the PNP ifestyle. I'm unemployed and cannot hold down a job for any meaningful length of time.
