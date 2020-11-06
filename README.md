@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/alephalpha0/rootofpi.me/badge)](https://www.codefactor.io/repository/github/alephalpha0/rootofpi.me)
 # [https://rootofpi.me](rootofpi.me) is living again.
 
 > It's my site. :shrug:. Whatta staring at? Take a picture, it'll last longer.  
