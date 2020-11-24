@@ -8,8 +8,8 @@
     font-weight: normal;
     font-style: normal; }
 @font-face{
-	font-family: 'SpaceMono';
-	src: url('/assets/SpaceMono_R_NF.ttf') format('truetype');
+	font-family: 'Monoid';
+	src: url('/assets/Monoid_Ret_NF.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal; }
 body {
@@ -17,14 +17,14 @@ body {
     color:#AAAAAA; }
 .junc {
 	font-family: Junction, Sans Serif; }
-.space {
-	font-family: SpaceMono, Mono; }
+.monoid {
+	font-family: Monoid, Mono; }
 .ascii {
-   font-family: SpaceMono, Mono;
+   font-family: Monoid, Mono;
    font-size:8pt;
    font-weight: bold; }
 body > pre {
-	color: #000000;
+	color: #ffffff;
     font-weight: normal; }
 .ansi2html-content { 
     display: inline; 
