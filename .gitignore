@@ -1,12 +1,14 @@
 # Folders to ignore
-node_modules
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
+node_modules/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
 vendor
 .git/
 doc/
+neov2/output/
+neov2/__pycache__/
 
 # General files
 CNAME
