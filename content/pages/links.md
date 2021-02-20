@@ -1,6 +1,11 @@
-Title: Links
+Title: links
+Date: 2021-02-20 08:32
 Category: Pages
+Slug: links
+Author: alephalpha0
 URL: /links.html
+Save_As: links.html
+Status: Published
 
 ## People I Find Interesting
 + [glow](https://glow.li)

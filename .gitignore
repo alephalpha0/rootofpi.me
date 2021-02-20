@@ -10,6 +10,8 @@ doc/
 neov2/output/
 neov2/__pycache__/
 output/
+__pycache__/
+atilla/
 
 # General files
 CNAME

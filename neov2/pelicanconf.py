@@ -3,7 +3,7 @@
 
 AUTHOR = 'alephalpha0'
 SITENAME = 'aa0.rootofpi.v2'
-SITEURL = ''
+SITEURL = 'https://alephalpha0.neocities.org'
 LOAD_CONTENT_CACHE = False
 
 
