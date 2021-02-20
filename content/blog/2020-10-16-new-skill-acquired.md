@@ -1,12 +1,12 @@
----
-layout: post
-title: new skill acquired - bash-hacking
-tags: [geek me good, command line gazing, terminal blues]
-date: 2020-10-16 13:18 -0500
-time: 13:18:43 -0500
-excerpt: My boyfriend at the time was like me, a tweaker conspiracy nut, and had a serious "privacy in the digital age" fascination bordering on obsession.
-location: Trinity Metro number 1 en route to catch the number 2.
----
+Title: new skill acquired - bash-hacking
+Date: 2020-10-16 13:18
+Category: Blog
+Tags: geek me good, command line gazing, terminal blues
+Summary: My boyfriend at the time was like me, a tweaker conspiracy nut, and had a serious "privacy in the digital age" fascination bordering on obsession.
+Location: Trinity Metro number 1 en route to catch the number 2.
+Status: Published
+
+
 I finally understand a couple ubiquitous things in nerd culture, computer nerd culture in particular; their sharing and discussion of dotfiles and bash scripts has become a topic of great interest to me. Granted, my experience has been with a modified linux environment running on an Android app, but it still relies exclusively on operating via a command line. There are ways to run a x11 GUI, but everything starts and ends at the CLI.
 
 The topic of cultivating, sharing, and storing for reuse of dotfiles had no weight of importance for me until semi-recently. I first started actively using and relying on Linux as my one and only OS in the winter of 2018. My boyfriend at the time was like me, a tweaker conspiracy nut, and had a serious "privacy in the digital age" fascination bordering on obsession. By this time, my PC had gone down, and Windows 10 on my laptop was only frustrating me. Jay helped me wipe my harddive and install Mint Linux on it. I used it lightly, meaning I didn't delve too deeply into customizing or exploring options for it, and just stuck to the GUI and programs that came with one. Later on, for various reasons, I wanted to have a running Linux distro on my phone and tried various methods I came across online to get a working distro as a boot option for my old ZTE. Rooting didn't work for me. In fact, I seemingly bricked my phone and created a panic like I've never given myself before. Once the phone was back to working order (bootloader locked), I came across an article detailing the virtues of running Termux as a linux environment inside Android. The only "downside" was it was command line driven.

@@ -10,11 +10,11 @@ Status: Published
 Been cruising around Youtube again loooking for music to pick up and fuck in the back seat of my LittleBoyBlue speakers. And wouldn't you know it, I ran into a group of songs that I heard on radios in people's cars and on the shopping retail playlists I'd happen to notice at different stores or locations I worked at for a week or two during last year. I pretended to not be interested in them then, too mainstream and withit for what **I** would want to be caught listening to. If anyone would actually notice and care what musical vibrations I happen to be listening to at any particular point in time. And, almost like clockwork, those songs would be stuck in the back of my mind..
  
 > I can't feel my face when I'm with you. But I like it.  
-  
+..  
 > One kiss is all it takes, falling in love with me. Possibilities.  
-  
+..  
 > You and I. We were born to die.  
-  
+..  
 > I make no promises. I can't do golden rings. But I'll give you everything. Tonight. 
   
 Self-imposed status label of tragically hip bordering on trying way too goddamn hard to have bleeding edge music cred. I resist and fight against liking anything currently playing within the current cultural groove.. And as a result I miss out on some truly great music. __The Weeknd__ is someone I refused to give the time of day for way too goddamn long. I've missed out on this magical voice up till today. __Dua Lipa__ is another I snubbed for far too long.  Fucking beautiful __Sam Smith__... Beautiful queer crooner awkward dancing Sam Smith. And the majority of the songs that came ouut of the alleyways of YT and demanded my attention are produced by the ever precise Calvin Harris. 

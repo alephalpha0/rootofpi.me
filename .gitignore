@@ -9,6 +9,7 @@ vendor
 doc/
 neov2/output/
 neov2/__pycache__/
+output/
 
 # General files
 CNAME
