@@ -8,10 +8,6 @@ Save_As: photos.html
 Status: Published
 
 
-### Ghosts XXVI
-#### 2020-XX-XX
-![Ghosts XXVI](/assets/images/photos/ghostsXXI.jpg)
-
 ### Blue Portals :: Interdimensional Possibilities.
 #### 2020-09-19
 ![Blue Portals](/assets/images/photos/bluePortals.jpg)

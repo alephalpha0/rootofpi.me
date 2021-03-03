@@ -2,7 +2,7 @@ Title: I touched a cat today.
 Date: 2021-02-21 16:56
 Category: Blog
 Tags: mental state, feeling myself
-Summary:
+Summary: Ever since Fiona passed on a couple years ago, and the Huies gave up on me, I have been lacking in contact with a feline. A large part of my soul is aligned with cats.
 Location: Base of stairs outside Samaritan House, in the Sunlight.
 Status: Published
 

@@ -8,11 +8,6 @@ Save_As: ss.html
 Status: Published
 
 
-### Wifi Access Points
-#### It always amuses me to see unique and creative AP SSIDs when out and about. I generally try to grab a SS of them.
-![DickLickinCunts](/assets/images/ss/wifidlc.png)
-
-![snakes;naturesquitter](/assets/images/ss/wifisnakes.png)
 
 ![SpagettiNipples](/assets/images/ss/wifispagettinipples.png)
 
