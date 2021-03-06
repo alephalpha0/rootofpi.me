@@ -8,9 +8,6 @@ Save_As: photos.html
 Status: Published
 
 
-### Blue Portals :: Interdimensional Possibilities.
-#### 2020-09-19
-![Blue Portals](/assets/images/photos/bluePortals.jpg)
 
 ### The Grid Backed by the King.
 #### 2020-09-23

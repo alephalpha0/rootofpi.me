@@ -1,0 +1,19 @@
+DirectoryIndex index.html
+ErrorDocument 404 404.html
+
+allow from all
+
+Options +FollowSymLinks
+Options All -Indexes
+
+## ALL THE CACHE IN THE WORLD!
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpg "access 1 year"
+  ExpiresByType image/jpeg "access 1 year"
+  ExpiresByType image/gif "access 1 year"
+  ExpiresByType image/png "access 1 year"
+  ExpiresByType text/css "access 1 week"
+  ExpiresByType text/html "access 1 week"
+  ExpiresByDefault "access 1 month"
+</IfModule>

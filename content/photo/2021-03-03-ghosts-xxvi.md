@@ -4,9 +4,9 @@ Category: Photographs
 Tags: treeline, green, ghosts, photograph
 Slug: ghosts-xxvi
 Author: alephalpha0
-Save_As: category/screenshots/ghosts-xxvi.html
+Save_As: category/photographs/ghosts-xxvi.html
 Status: Published
 
 
-#### 2020-XX-XX
 ![Ghosts XXVI](/assets/images/photos/ghostsXXI.jpg)
+### 2020-XX-XX

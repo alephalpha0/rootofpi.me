@@ -21,9 +21,9 @@ ARTICLE_PATHS = (('blog/'),('photo/'),)
 STATIC_PATHS= ['assets']
 DELETE_OUTPUT_DIRECTORY = True
 ## CHANGE BASED ON THE THEME USIN
-#THEME_STATIC_DIR = 'themes/atilla'
-THEME_STATIC_DIR = 'themes/chunk/'
-THEME_STATIC_PATHS = ['static']
+#THEME_STATIC_PATH = ['themes/atilla/static']
+#THEME_STATIC_DIR = 'theme/'
+#THEME_STATIC_PATHS = ['../themes/chunk/static']
 
 # Default Settings
 DEFAULT_CATEGORY = 'Blog'
