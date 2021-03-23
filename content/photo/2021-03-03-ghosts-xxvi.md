@@ -9,4 +9,4 @@ Status: Published
 
 
 ![Ghosts XXVI](/assets/images/photos/ghostsXXI.jpg)
-### 2020-XX-XX
+### 2020-XX-22
