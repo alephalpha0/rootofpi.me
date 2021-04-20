@@ -1,0 +1,25 @@
+baseURL = "https://rootofpi.me"
+title = "rootofpi ::_:: terminal gazing at its finest"
+author = "alephalpha0"
+copyright = "Made under the CC BY-NC-SA 4.0 license."
+paginate = 5
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+  
+theme="the-roots-home"
+
+#enableGitInfo=true
+enableEmoji= true
+enableRobotsTXT= true
+
+# Syntax Highlight Options
+pygmentsCodeFencesGuessSyntax = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+pygmentsStyle = "vs"
+[pygmentsOptions]
+  linenos= true
+
+[markup]
+  defaultMarkdownHandler= "goldmark"
