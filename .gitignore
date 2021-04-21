@@ -5,6 +5,7 @@ neov2/__pycache__/
 output/
 __pycache__/
 themes/
+public/
 
 # General files
 CNAME
