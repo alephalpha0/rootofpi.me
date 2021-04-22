@@ -1,17 +1,22 @@
 baseURL = "https://rootofpi.me"
 title = "rootofpi ::_:: terminal gazing at its finest"
+footnoteReturnLinkContents = "↩"
+
+
 author = "alephalpha0"
 copyright = "Made under the CC BY-NC-SA 4.0 license."
 paginate = 5
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
+enableRobotsTXT = true
+canonifyURLs = true
+uglyURLs = true
   
-theme="the-roots-home"
+theme = "the-roots-home"
 
-#enableGitInfo=true
-enableEmoji= true
-enableRobotsTXT= true
+enableGitInfo=true
+enableEmoji = true
 
 # Syntax Highlight Options
 pygmentsCodeFencesGuessSyntax = true
