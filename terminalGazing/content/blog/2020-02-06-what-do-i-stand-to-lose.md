@@ -4,7 +4,7 @@ date: 2020-02-06T11:53:44Z
 draft: false
 categories: ["blog"]
 tags: ["self assessment", "mental state", "methful life", "ramblings of an asylum inmate"]
-Slsummary: "I could go on and on. The allure is strong and the pull is definitely real. My mind apparently hasn't given up its fascination with the entire process of using and being used."
+summary: "I could go on and on. The allure is strong and the pull is definitely real. My mind apparently hasn't given up its fascination with the entire process of using and being used."
 location: "back of an NA room."
 ---
 

@@ -5,7 +5,6 @@ draft: false
 categories: ["pages"]
 ---
 
-
 ## ABOUTME();
 I am alephalpha0. 36 and a gay texan. I am interested in the homebrew, creative, collaborative web that existed before the corporations took over the internet. I am a entry-level coder, journalist, and artist. I am forever searching for the perfect form of self-expression. I am also a drug addict and try to document my struggles with reality in my blog. 
 
@@ -40,4 +39,4 @@ Open Source and Libre software/mentality has long been a personal fascination an
 ## MOVEMENTS&CAUSES();
 Since I began terrorizing the etherspace of the world wide web in 2002, I have been a staunch supporter of [no www](https://no-www.org).
 
-![braknow](/assets/images/buttons/braknow.gif) ![foobar](/assets/images/buttons/foobar.png) ![internet roadkill](/assets/images/buttons/internet-roadkill.gif) ![wget](/assets/images/buttons/wget.gif)
+![braknow](/img/buttons/braknow.gif) ![foobar](/img/buttons/foobar.png) ![internet roadkill](/img/buttons/internet-roadkill.gif) ![wget](/img/buttons/wget.gif)
