@@ -5,6 +5,14 @@ draft: false
 categories: ["pages"]
 ---
 
+
+```
+ __________ _________ _________   _______   _________   _______  
+/   /_____/|    _o___)    _o___) /   O   \ /__     __\ /   O   \ 
+\___\%%%%%'|___|\____\___|\____\/___/%\___\`%%|___|%%'/___/%\___\
+ `BBBBBBBB' `BB' `BBB'`BB' `BBB'`BB'   `BB'    `B'    `BB'   `BB'
+```
+
 ## ABOUTME();
 I am alephalpha0. 36 and a gay texan. I am interested in the homebrew, creative, collaborative web that existed before the corporations took over the internet. I am a entry-level coder, journalist, and artist. I am forever searching for the perfect form of self-expression. I am also a drug addict and try to document my struggles with reality in my blog. 
 
