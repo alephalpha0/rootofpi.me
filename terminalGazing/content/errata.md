@@ -1,5 +1,5 @@
 ---
-title: "Site's Errata"
+title: "Site's Errata of ROOTOFPI.ME"
 date: 2021-05-01T10:57:36Z
 draft: false
 categories: ["pages"]
@@ -36,8 +36,8 @@ This site would not be in existance if it weren't for the ability to right click
 * Image Streams
   * Screen Shots
   * Photographs
-  * Image Manipulations
-  * Gifs
+  * Image Manipulations - WIP
+  * Gifs - WIP
 * Errata
 * Links
 
@@ -45,6 +45,9 @@ This site would not be in existance if it weren't for the ability to right click
 Open Source and Libre software/mentality has long been a personal fascination and default got-to of mine. The idea that information is power is one of the tenants of our current reality. Information has many forms: data streams, sound waves, written lexicons, belief systems. My belief is that information should be free for anyone regardless of situational circumstances.
 
 ## MOVEMENTS&CAUSES();
-Since I began terrorizing the etherspace of the world wide web in 2002, I have been a staunch supporter of [no www](https://no-www.org).
+* Since I began terrorizing the etherspace of the world wide web in 2002, I have been a staunch supporter of [no www](https://no-www.org).
+  
+* Privacy and ownership of one's data, especially in the reality we find ourselvesin, is of the upmost importance. Google, Microsoft, Amazon, Facebook, the list goes forever on. These corporation desire one thing only: to own you and your actions. When you do not hold access to your data, your secrets, your very day to day affairs, you allow the services that handle that data to have control over you. There are many talks, papers, essays, and movements out there that give better urgency and validity to this thought that I ever could. [The FREENET Project](https://freenetproject.org) && [IPFS](https://ipfs.io) && [Starpage.com's "Privacy, Please"](https://www.startpage.com/privacy-please/) && [EPIC : Electronic Privacy Information Center](https://www.epic.org/).  
 
+  
 ![braknow](/img/buttons/braknow.gif) ![foobar](/img/buttons/foobar.png) ![internet roadkill](/img/buttons/internet-roadkill.gif) ![wget](/img/buttons/wget.gif)
