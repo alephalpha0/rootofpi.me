@@ -23,13 +23,13 @@ I come in peace.
 
 ## ABOUTSITE();
 Originated circa 2003, Rootofpi has been the digital self-curated domain of DK3. 
-Rootofpi's  hallmarks are 1) its history is steeped in handcoding and has been mostly on the fly and off the cuff, 2) the only interests and motives operating behind its existance are self introspection, self growth, and self amusement, and 3) the term rootofpi itself; inherently _nonlogical_ and _nonsensicle_. 
+Rootofpi's  hallmarks are 1) its history is steeped in handcoding and has been mostly on the fly and off the cuff, 2) the only interests and motives operating behind its existence are self introspection, self growth, and self amusement, and 3) the term rootofpi itself; inherently _nonlogical_ and _nonsensicle_. 
 It is my home is cyberspace that has been absent for over a decade.
 I am incredibly satisfied and delighted to have it back in operation and broadcasting into the nether.
 
 This current iteration of my site is fueled by [Cream Sodas](https://en.m.wikipedia.org/wiki/Cream_soda), its source files are hacked out with the use of the [micro](https://micro-editor.github.io/) text editor, iterated over and generated with [Hugo](https://gohugo.io), and hosted using the weird demi-urge [namecheap](https://namecheap.com) because they're cheap and so am I.. The source code can be openly viewed at my [Github Repo](https://github.com/alephalpha0/rootofpi.me) and is broadcast into the cyber-ether under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
 
-This site would not be in existance if it weren't for the ability to right click on any page on the internet and `view-source` to gaze into the innards of a site. I encourage you to do so more often.
+This site would not be in existence if it weren't for the ability to right click on any page on the internet and `view-source` to gaze into the innards of a site. I encourage you to do so more often.
 
 ## SITEMETA();
 * Blog
