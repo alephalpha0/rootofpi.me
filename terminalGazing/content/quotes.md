@@ -12,8 +12,7 @@ summary: "A magpie's consumption and collection of said sayings and things left 
 ### I hoard quotes like a magpie. Lyrics are always stuck in my head, repeating endlessly until they become a mantra. Word porn is almost always screen-shotted and saved to the external HDD.  An inexhaustive list follows.
 
 
-## Lyrics:
-
+## Sung Manifestations:
 > All you do is call me, I'll be anything you need. ~ Peter Gabriel
 
 > He not busy being born is busy dying. ~ Bob Dylan
@@ -31,13 +30,12 @@ summary: "A magpie's consumption and collection of said sayings and things left 
 > Why don't you dance like you're sick in your mind? ~ Glass Animals
 
 
-## Literature:
-
+## The Written Word:
 > Buy the ticket; ride the ride. ~ Hunter S. Thompson  
 
 > You have always approached everything terrible trustfully. You have wanted to pet every monster. - Friedrich Nietzsche  
 
+> The privilege of a lifetime is being who you are. - Joseph Campbell
 
 ## Said sayings:
-
 > The function of music is to release us from the tyranny of conscious thought. ~ Sir Thomas Beecham
