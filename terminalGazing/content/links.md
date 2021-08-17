@@ -10,6 +10,7 @@ draft: false
 * [FidoNet](https://fidonet.org)  
 * [Gemini Protocol](https://gemini.circumlunar.space/)  
 * [IPFS](https://ipfs.io) 
+
   
 ## ART + TECHNOLOGY
 ### The Scene: 
@@ -29,6 +30,8 @@ draft: false
 * [Arkandis Digital Foundry](http://arkandis.tuxfamily.org/)
 * [The Font Bureau](https://fontbureau.typenetwork.com)
 * [int10h](https://int10h.org/)
+### Artistas of a More Conventional Degree: 
+* [Party In The Front](https://luismelo.net)
 
   
 ## BBS  
@@ -36,6 +39,7 @@ draft: false
 * [TELNET BBS GUIDE](https://www.telnetbbsguide.com/)
 ### Collections:  
 * [textfiles](http://textfiles.com) 
+
 
 ## TECHNOLOGY ESOTERICA
 ### Operating Systems:
@@ -45,10 +49,12 @@ draft: false
 * [index-of](http://index-of.es/)
 * [Windows93](https://windows93.net)
 
+
 ## ONLINE PRESENCES
 ### The Good Side of the internet:
 * [Hostux.network](https://hostux.net)
 * [Freenet Project](https://freenetproject.org)
+* [Neocities](https://neocities.org)
 ### Shared Systems In Sympatico:
 * [envs.net](https://envs.net)
 * [spf.org](https://spf.org)
@@ -57,4 +63,9 @@ draft: false
 * [Suricrasia Online](https://suricrasia.online)  
 * [CAT-V](https://cat-v.org)  
 * [BLOCKTRONICS](https://blocktronics.org)  
-* [9Front](http://9front.org)
+* [9Front](http://9front.org) 
+ 
+  
+## 88x31
+[![Proud Customer of Suricrasia Online!](/img/buttons/shork.png)](https://suricrasia.online)
+[![Neocities](/img/buttons/neocities.gif)](https://neocities.org)
