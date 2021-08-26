@@ -1,4 +1,5 @@
 baseURL = "http://alephalpha0.space"
+#baseURL = "http://alephalpha0.space"
 title = "rootofpi ::_:: terminal gazing at its finest"
 footnoteReturnLinkContents = "↩"
 
@@ -15,7 +16,7 @@ uglyURLs = true
   
 theme = "the-roots-home"
 
-enableGitInfo=true
+enableGitInfo = false
 enableEmoji = true
 
 # Syntax Highlight Options

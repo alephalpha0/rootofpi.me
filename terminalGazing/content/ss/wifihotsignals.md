@@ -1,5 +1,5 @@
 ---
-title: "WiFi Hot Signals In Your Area"
+title: "WiFi - Hot Signals In Your Area"
 date: 2021-06-26T16:29:12Z
 draft: false
 categories: ["screenshots"]

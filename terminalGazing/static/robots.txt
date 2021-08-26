@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /img/
+
+Sitemap: http://alephalpha0.space/sitemap.xml
+Sitemap: http://www.alephalpha0.space/sitemap.xml
