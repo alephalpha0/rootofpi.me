@@ -6,4 +6,4 @@ categories: ["screenshot"]
 tags: ["wifi"]
 ---
 
-![I Plead the Fifth Floor](/img/ss/wifiplead the5th.png)
+![I Plead the Fifth Floor](/img/ss/wifipleadthe5th.png)
