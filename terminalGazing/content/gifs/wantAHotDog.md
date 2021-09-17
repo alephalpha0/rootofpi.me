@@ -5,4 +5,4 @@ draft: false
 categories: ["gifs"]
 ---
 
-![You look like the 4th of July. Makes me want a hotdog, real bad.](img/gifs/wantAHotDog.gif)
+![You look like the 4th of July. Makes me want a hotdog, real bad.](/img/gifs/wantAHotDog.gif)
