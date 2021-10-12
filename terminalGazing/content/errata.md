@@ -2,7 +2,7 @@
 title: "Site's Errata of ROOTOFPI.ME"
 date: 2021-05-01T10:57:36Z
 draft: false
-categories: ["pages"]
+categories: ["site-pages"]
 ---
 
 
@@ -50,4 +50,4 @@ Open Source and Libre software/mentality has long been a personal fascination an
 * Privacy and ownership of one's data, especially in the reality we find ourselvesin, is of the upmost importance. Google, Microsoft, Amazon, Facebook, the list goes forever on. These corporation desire one thing only: to own you and your actions. When you do not hold access to your data, your secrets, your very day to day affairs, you allow the services that handle that data to have control over you. There are many talks, papers, essays, and movements out there that give better urgency and validity to this thought that I ever could. [The FREENET Project](https://freenetproject.org) && [IPFS](https://ipfs.io) && [Starpage.com's "Privacy, Please"](https://www.startpage.com/privacy-please/) && [EPIC : Electronic Privacy Information Center](https://www.epic.org/).  
 
   
-![braknow](/img/buttons/braknow.gif) ![foobar](/img/buttons/foobar.png) ![internet roadkill](/img/buttons/internet-roadkill.gif) ![wget](/img/buttons/wget.gif)
+![braknow](/img/buttons/braknow.gif) ![foobar](/img/buttons/foobar.png) ![internet roadkill](/img/buttons/internet-roadkill.gif) ![wget](/img/buttons/wget.gif) ![HTTrack](/img/buttons/httbutton.gif)

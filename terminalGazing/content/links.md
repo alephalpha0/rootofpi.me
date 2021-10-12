@@ -2,16 +2,45 @@
 title: "Links"
 date: 2021-05-01T10:57:53Z
 draft: false
+categories: ["site-pages"]
 ---
 
 # The highly coveted hoarde of links.
-
+---
+# THE BEGUILING NEU GOD: ELECTRICAl MECHANICAL ETHERSPACE
+## Game & System Emulation
+### Blogs
+* [ReAssembler](http://reassembler.blogspot.com/)
+---
+## Fantasy Computers
+---
+## TECHNOLOGY ESOTERICA
+### Operating Systems:
+* [TempleOS](https://templeos.org) 
+* [Plan 9](https://9p.io)
+### Unknown Schema:
+* [index-of](http://index-of.es/)
+* [Windows93](https://windows93.net)
+---
 ## Alternative Protocols
 * [FidoNet](https://fidonet.org)  
 * [Gemini Protocol](https://gemini.circumlunar.space/)  
 * [IPFS](https://ipfs.io) 
-
-  
+* [ZeroNet](https://zeronet.io)
+---
+## BBS  
+### Modern Day HowTos:
+* [TELNET BBS GUIDE](https://www.telnetbbsguide.com/)
+### Collections:  
+* [textfiles](http://textfiles.com) 
+---
+---
+# ART : THE OLDSKOOL & NEU
+## 
+### Digital Artistry:
+* [Party In The Front](https://luismelo.net)
+---
+---
 ## ART + TECHNOLOGY
 ### The Scene: 
 * [16colo.rs](https://16colo.rs/)  
@@ -23,35 +52,25 @@ draft: false
 * [scene.org](https://scene.org)  
 * [defacto2](https://defacto2.net/)  
 * [pouet.net](https://www.pouet.net/)  
+---
 ### Code as Art / Prose as Code:
 * [artcontext.org](http://artcontext.org)  
 * [Orca](https://hundredrabbits.itch.io/orca)
+---
 ### Font Foundaries:
 * [Arkandis Digital Foundry](http://arkandis.tuxfamily.org/)
 * [The Font Bureau](https://fontbureau.typenetwork.com)
 * [int10h](https://int10h.org/)
-### Artistas of a More Conventional Degree: 
-* [Party In The Front](https://luismelo.net)
+---
+---  
 
-  
-## BBS  
-### Modern Day HowTos:
-* [TELNET BBS GUIDE](https://www.telnetbbsguide.com/)
-### Collections:  
-* [textfiles](http://textfiles.com) 
-
-
-## TECHNOLOGY ESOTERICA
-### Operating Systems:
-* [TempleOS](https://templeos.org) 
-* [Plan 9](https://9p.io)
-### Unknown Schema:
-* [index-of](http://index-of.es/)
-* [Windows93](https://windows93.net)
 
 
 ## ONLINE PRESENCES
-### The Good Side of the internet:
+### The Good Side of the internet #1:
+* [The Venerable RiseUp.net](https://riseup.net)
+* [Security In A Box: Tools & Tactics (https://securityinabox.org/)
+### The Good Side of the internet #2:
 * [Hostux.network](https://hostux.net)
 * [Freenet Project](https://freenetproject.org)
 * [Neocities](https://neocities.org)
