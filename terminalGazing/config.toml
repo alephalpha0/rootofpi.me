@@ -7,8 +7,8 @@ footnoteReturnLinkContents = "↩"
 author = "alephalpha0"
 copyright = "Made under the CC BY-NC-SA 4.0 license."
 paginate = 5
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "en-us"
+defaultContentLanguage = "en"
 enableInlineShortcodes = true
 enableRobotsTXT = true
 canonifyURLs = true
@@ -25,7 +25,16 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 pygmentsStyle = "vs"
 [pygmentsOptions]
-  linenos= true
+  linenos = true
 
 [markup]
-  defaultMarkdownHandler= "goldmark"
+  defaultMarkdownHandler = "goldmark"
+
+[minify]
+  [minify.tdewolff]
+    [minify.tdewolff.css]
+    [minify.tdewolff.html]
+      keepWhitespace = true
+
+[social]
+twitter = "replicantArray"

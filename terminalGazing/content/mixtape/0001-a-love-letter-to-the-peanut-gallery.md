@@ -1,5 +1,5 @@
 ---
-title: "[2021 07 07] A Love Letter to the Peanut Gallery"
+title: "[0001] A Love Letter to the Peanut Gallery"
 date: 2021-07-07T19:55:36Z
 draft: false
 categories: ["mixtape"]
