@@ -11,7 +11,8 @@ summary: "A magpie's consumption and collection of said sayings and things left 
 
 ### I hoard quotes like a magpie. Lyrics are always stuck in my head, repeating endlessly until they become a mantra. Word porn is almost always screen-shotted and saved to the external HDD.  An inexhaustive list follows.
 
---
+---
+
 ## Sung Manifestations:
 
 > All you do is call me, I'll be anything you need. ~ Peter Gabriel
@@ -30,16 +31,24 @@ summary: "A magpie's consumption and collection of said sayings and things left 
 
 > Why don't you dance like you're sick in your mind? ~ Glass Animals
 
-> Pleasantly caving in;  I come undone. - Josh Homme
+> Pleasantly caving in;  I come undone. ~ Josh Homme
 
---
+> Everybody makes mistakes, but it seems it's always mine that keep on stinging. ~ James Murphy / LCD Soundsystem 
+
+---
+
 ## The Written Word:
+
 > Buy the ticket; ride the ride. ~ Hunter S. Thompson  
 
-> You have always approached everything terrible trustfully. You have wanted to pet every monster. - Friedrich Nietzsche  
+> You have always approached everything terrible trustfully. You have wanted to pet every monster. ~ Friedrich Nietzsche  
 
-> The privilege of a lifetime is being who you are. - Joseph Campbell
+> The privilege of a lifetime is being who you are. ~ Joseph Campbell
 
---
+---
+
 ## Said sayings:
+
 > The function of music is to release us from the tyranny of conscious thought. ~ Sir Thomas Beecham
+
+> You are an aperture through which The Universe is looking at and exploring Itself. ~ Alan Watts
