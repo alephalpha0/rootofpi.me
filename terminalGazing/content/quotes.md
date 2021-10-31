@@ -35,6 +35,8 @@ summary: "A magpie's consumption and collection of said sayings and things left 
 
 > Everybody makes mistakes, but it seems it's always mine that keep on stinging. ~ James Murphy / LCD Soundsystem 
 
+> Let's embrace the point of no return. ~ Lorde
+
 ---
 
 ## The Written Word:
