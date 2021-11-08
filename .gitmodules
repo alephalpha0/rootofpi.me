@@ -1,0 +1,3 @@
+[submodule "talkingInNumbers/themes/hugo-coder"]
+	path = talkingInNumbers/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git

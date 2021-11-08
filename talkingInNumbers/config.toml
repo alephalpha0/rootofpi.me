@@ -1,0 +1,7 @@
+### TALKING IN CAPITAL NUMBERS
+### INITIAL SITE CONFIGURATION
+
+# baseURL = 'http://alephalpha0.space'
+languageCode = 'en-us'
+title = 'the ROOTOFPI +++ Talking In Capital Numbers'
+theme = "hugo-coder"
