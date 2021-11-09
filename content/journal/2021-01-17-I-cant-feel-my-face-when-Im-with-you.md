@@ -1,10 +1,12 @@
-Title: I can't feel my face when I'm with you.
-Date: 2021-01-17 06:38
-Category: Blog
-Tags: space cowboy, we are the music makers
-Summary: The golden shining higher being of this one is easily rendered foggy and out-of-focus these days when the last full night of sleep is a barely half-assed guesstimate for remembrance.
-Location: Back of Sam house's grounds at a picnic table, under a bare branched  tree.
-Status: Published
+---
+title: "I Can't Feel My Face When I'm With You"
+date: 2021-01-17T05:18:57Z
+draft: false
+categories: ["blog"]
+tags: ["space cowboy", "we are the music makers"]
+summary: "The golden shining higher being of this one is easily rendered foggy and out-of-focus these days when the last full night of sleep is a barely half-assed guesstimate for remembrance."
+location: "Back of Sam house's grounds at a picnic table, under a bare branched tree."
+---
 
 
 Been cruising around Youtube again loooking for music to pick up and fuck in the back seat of my LittleBoyBlue speakers. And wouldn't you know it, I ran into a group of songs that I heard on radios in people's cars and on the shopping retail playlists I'd happen to notice at different stores or locations I worked at for a week or two during last year. I pretended to not be interested in them then, too mainstream and withit for what **I** would want to be caught listening to. If anyone would actually notice and care what musical vibrations I happen to be listening to at any particular point in time. And, almost like clockwork, those songs would be stuck in the back of my mind..

@@ -1,10 +1,12 @@
-Title: Clarity Statement
-Date: 2020-08-23 02:34
-Category: Blog
-Tags: methful life, manifesto, space cowboy, queer not gay
-Summary: This is my story. There are many like it, but this one is mine.
-Location: Aboard the good ship replicantArray
-Status: Published
+---
+title: "Clarity Statement"
+date: 2020-08-23T22:03:53Z
+draft: false
+categories: ["blog"]
+tags: ["methful life", "manifesto", "space cowboy", "queer not gay"]
+summary: "This is my story. There are many like it, but this one is mine."
+location: "Aboard the good ship replicantArray"
+---
 
 
 > '9 times out of 10, our hearts just get dissolved. I want a better place, or just a better way to fall.' -- Issac Brock. 

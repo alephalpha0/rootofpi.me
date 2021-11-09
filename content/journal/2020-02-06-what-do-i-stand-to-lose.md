@@ -1,10 +1,12 @@
-Title: What do i stand to lose
-Date: 2020-02-06 11:53 -0600
-Category: Blog
-Tags: self assessment, mental state, methful life, ramblings of an asylum inmate
-Summary: I could go on and on. The allure is strong and the pull is definitely real. My mind apparently hasn't given up its fascination with the entire process of using and being used.
-Location: back of an NA room.
-Status: Published
+---
+title: "What Do I Stand to Lose"
+date: 2020-02-06T11:53:44Z
+draft: false
+categories: ["blog"]
+tags: ["self assessment", "mental state", "methful life", "ramblings of an asylum inmate"]
+summary: "I could go on and on. The allure is strong and the pull is definitely real. My mind apparently hasn't given up its fascination with the entire process of using and being used."
+location: "back of an NA room."
+---
 
 
 What is it about this drug and lifestyle that holds my attention? The loss of normal boundaries. The desire to break social norms and the feeling of revelling in that desire. The shift of focus from real world goals and desires to full on cumslut unsatiableness. The continual evasion of reality and hiding my mind and sheltering my soul in a fantasy world. 

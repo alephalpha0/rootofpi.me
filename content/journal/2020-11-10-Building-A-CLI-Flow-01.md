@@ -1,10 +1,12 @@
-Title: building a CLI flow part 1
-Date: 2020-11-10 13:18
-Category: Blog
-Tags: geek me good, command line gazing, terminal blues
-Summary: So, I feel like my grasp of scripting and pipelines is decent enough to cobble together a functioning bash script using programs and sources at my disposal that should take care of what I want to do. Namely, a locally saved, single file `.html`
-Location: the good ship starship shelled
-Status: Published
+---
+title: "Building a CLI Flow 01"
+date: 2020-11-10T22:14:04Z
+draft: false
+categories: ["blog"]
+tags: ["geek me good", "command line gazing", "terminal blues"]
+summary: "So, I feel like my grasp of scripting and pipelines is decent enough to cobble together a functioning bash script using programs and sources at my disposal that should take care of what I want to do. Namely, a locally saved, single file .html"
+location: "the good ship starship shelled"
+---
 
 
 # Building a cli program flow in order to archive a single webpage or article.

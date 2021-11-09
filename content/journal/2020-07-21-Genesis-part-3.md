@@ -1,10 +1,12 @@
-Title: Genesis part 3
-Date: 2020-07-21 13:14
-Category: Blog
-Tags: working, feeling myself
-Summary: I'm sweating like a whore in church. I've already taken off my shirt and there I go walking half naked down the road.
-Location: Rosedale headed West.
-Status: Published
+---
+title: "Genesis Part 3"
+date: 2020-07-21T23:07:08Z
+draft: false
+categories: ["blog"]
+tags: ["working", "feeling myself"]
+summary: "I'm sweating like a whore in church. I've already taken off my shirt and there I go walking half naked down the road."
+location: "Rosedale headed West."
+---
 
 
 I'm walking to IHOP on University along Rosedale. It's 7:50 in the morning and I'm going to do something productive with my day for the first time in about 7 months. I've been up all night trying to calm my nerves and get my mind under wraps. And honestly all I can think about right now is just how fucking goofy people's faces look while they're driving and looking into the Sun.  

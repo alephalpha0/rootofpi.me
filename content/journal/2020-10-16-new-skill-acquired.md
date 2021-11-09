@@ -1,10 +1,12 @@
-Title: new skill acquired - bash-hacking
-Date: 2020-10-16 13:18
-Category: Blog
-Tags: geek me good, command line gazing, terminal blues
-Summary: My boyfriend at the time was like me, a tweaker conspiracy nut, and had a serious "privacy in the digital age" fascination bordering on obsession.
-Location: Trinity Metro number 1 en route to catch the number 2.
-Status: Published
+---
+title: "New Skill Acquired"
+date: 2020-10-16T22:10:32Z
+draft: false
+categories: ["blog"]
+tags: ["geek me good", "command line gazing", "terminal blues"]
+summary: "My boyfriend at the time was like me, a tweaker conspiracy nut, and had a serious \"privacy in the digital age\" fascination bordering on obsession."
+location: "Trinity Metro number 1 en route to catch the number 2."
+---
 
 
 I finally understand a couple ubiquitous things in nerd culture, computer nerd culture in particular; their sharing and discussion of dotfiles and bash scripts has become a topic of great interest to me. Granted, my experience has been with a modified linux environment running on an Android app, but it still relies exclusively on operating via a command line. There are ways to run a x11 GUI, but everything starts and ends at the CLI.

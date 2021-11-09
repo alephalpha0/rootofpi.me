@@ -3,8 +3,8 @@ title: "Not Clever"
 date: 2021-04-21T19:05:10Z
 draft: false
 categories: ["blog"]
-tags: [""]
-summary: ""
+tags: ["meth chronicles", "love in the time of COVID19"]
+summary: "I'm tired of the game and its ruleset. It feels like I've given everything to it and have gotten not quite what I bargained for in return."
 location: "Mentally COVID19, Tuesday_Next"
 ---
 

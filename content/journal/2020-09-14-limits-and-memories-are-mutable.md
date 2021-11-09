@@ -1,10 +1,12 @@
-Title: limits and memories are mutable
-Date: 2020-09-14 20:32
-Category: Blog
-Tags: meth chronicles, ramblings of an asylum inmate, my shields are down
-Summary: my hard limits seem to not be as hard as they once were. and i cannot with any certainty say what is my rock bottom or a general boundary to myself at this current time.
-Location: 711 eating area, victory plaza, downtown, dallas, tx, usa, north america, earth
-Status: Published
+---
+title: "Limits and Memories Are Mutable"
+date: 2020-09-14T22:07:30Z
+draft: false
+categories: ["blog"]
+tags: ["meth chronicles", "ramblings ofan asylum inmate", "my shields are down"]
+summary: "my hard limits seem to not be as hard as they once were. and i cannot with any certainty say what is my rock bottom or a general boundary to myself at this current time."
+location: "711 eating area, victory plaza, downtown, dallas, tx, usa, north america, earth"
+---
 
 
 A new experience occurred concurrently and in step with a new high water mark of the extremes I will go  to in pursuit of my PNP fantasy. I was grooving in the mental playground that is chaturbate. On my bed, one of my dildos sliding in and out of my hole, trying to ration and make my meager shard supply last. I try to be a "good host" and welcome everyone who stumbles upon my broadcast page. I'm better @ sometimes than others, and honestly there are several username/chat keywords I key into and pay better attention to. Perv, spun, cloudy, daddy, and pig are of course some of them. Anything with the connotation of Texas and specifically FTW really get my attention. I was chatting with a pervy master-type guy somewhere in Texas who was flowing along with the fantasy of keeping me as a constantly spun tweaker whore, when someone with the string 'ftworth' in his username entered my chat and started chatting openly asking how my supply of clouds was and wondering if I wanted to share his.   

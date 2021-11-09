@@ -1,9 +1,12 @@
-Title: out of sequence
-Date: 2020-02-20 11:12 -0600
-Category: Blog
-Tags: sobriety, mental state, love in the time of COVID19
-Summary: The ethereal plan'e border between itself and my world is quickly erroding. Specific events stand out in my mind
-Status: Published
+---
+title: "Out of Sequence"
+date: 2020-02-20T15:59:25Z
+draft: false
+categories: ["blog"]
+tags: ["sobriety", "mental state", "love in the time of COVID19"]
+summary: "The ethereal plan'e border between itself and my world is quickly erroding. Specific events stand out in my mind"
+---
+
 
 Your adventures are leading you closer and closer to the abyss. The center cannot endure. The exit portal is slowly closing and you are running out of time. Window for escape will soon be non existent. 
   

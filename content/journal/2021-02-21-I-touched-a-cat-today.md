@@ -1,10 +1,12 @@
-Title: I touched a cat today.
-Date: 2021-02-21 16:56
-Category: Blog
-Tags: mental state, feeling myself
-Summary: Ever since Fiona passed on a couple years ago, and the Huies gave up on me, I have been lacking in contact with a feline. A large part of my soul is aligned with cats.
-Location: Base of stairs outside Samaritan House, in the Sunlight.
-Status: Published
+---
+title: "I Touched a Cat Today"
+date: 2021-02-21T05:27:51Z
+draft: false
+categories: ["blog"]
+tags: ["mental state", "feeling myself"]
+summary: "Ever since Fiona passed on a couple years ago, and the Huies gave up on me, I have been lacking in contact with a feline. A large part of my soul is aligned with cats."
+location: "Base of stairs outside Samaritan House, in the Sunlight."
+---
 
 
 I've officially survived another Texan Winter Apocalypse.  The last one brought cobble ice, this one brought rolling blackouts and a wesk long sleep for me. for the first time in my life I felt the cold my bones.it was a pretty lack luster apocalypse on my end. I was coming down last weekend when it started, so I just kind of slid into a sleep and woke up a couple days later in the midst of snow that hadn't gone anywhere for a few days.

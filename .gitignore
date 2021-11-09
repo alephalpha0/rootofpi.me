@@ -4,7 +4,7 @@ neov2/output/
 neov2/__pycache__/
 output/
 __pycache__/
-themes/
+terminalGazing/themes/
 public/
 terminalGazing/static/img/
 terminalGazing/public
