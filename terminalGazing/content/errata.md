@@ -13,8 +13,8 @@ categories: ["site-pages"]
  `BBBBBBBB' `BB' `BBB'`BB' `BBB'`BB'   `BB'    `B'    `BB'   `BB'
 ```
 
-## ABOUTME();
-I am alephalpha0. 36 and a gay texan. I am interested in the homebrew, creative, collaborative web that existed before the corporations took over the internet. I am a entry-level coder, journalist, and artist. I am forever searching for the perfect form of self-expression. I am also a drug addict and try to document my struggles with reality in my blog. 
+## ABOUT_ME();
+I am alephalpha0 (DK3). 37 and a gay texan. I am interested in the homebrew, creative, collaborative web that existed before the corporations took over the internet. I am forever searching for the perfect form of self-expression, which has forever proven itself to be purely elusive.  I am a entry-level coder, journalist, and artist. I am also a drug addict. My hope and goal is to document my struggles with reality in my blog, as well as showcase the small spark of the Divine that occasionally shows itself within.
 
 I come in peace.
 
@@ -22,7 +22,7 @@ I come in peace.
 
 
 ## ABOUTSITE();
-Originated circa 2003, Rootofpi has been the digital self-curated domain of DK3. 
+Originated circa 2003, ROOTOFPI has been the digital self-curated domain of DK3. 
 Rootofpi's  hallmarks are 1) its history is steeped in handcoding and has been mostly on the fly and off the cuff, 2) the only interests and motives operating behind its existence are self introspection, self growth, and self amusement, and 3) the term rootofpi itself; inherently _nonlogical_ and _nonsensicle_. 
 It is my home is cyberspace that has been absent for over a decade.
 I am incredibly satisfied and delighted to have it back in operation and broadcasting into the nether.

@@ -9,5 +9,5 @@ summary: ""
 
 ## A Chunk of Change 2021-Aug2Oct
 
-* MEMBA - Sun Sala __[]__
-* Amaarea - SAD GIRLZ LUV MONEY __[]__
+* MEMBA - Sun Sala __[Sun Sala EP]__
+* Amaarea - SAD GIRLZ LUV MONEY (W/ Moliy) __[THE ANGEL YOU DON'T KNOW]__

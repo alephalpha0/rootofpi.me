@@ -15,42 +15,62 @@ summary: "A magpie's consumption and collection of said sayings and things left 
 
 ## Sung Manifestations:
 
-> All you do is call me, I'll be anything you need. ~ Peter Gabriel
+> All you do is call me, I'll be anything you need. 
+~ Peter Gabriel
 
-> He not busy being born is busy dying. ~ Bob Dylan
+> He not busy being born is busy dying. 
+~ Bob Dylan
 
-> Don't get up gentlemen, I'm only passing through. ~ Bob Dylan
+> Don't get up gentlemen, I'm only passing through. 
+~ Bob Dylan
 
-> We know Major Tom's a junkie. ~ David Bowie
+> We know Major Tom's a junkie. 
+~ David Bowie
 
-> I've just got to get out of this prison cell. One day I'm going to be free. ~ Freddie Mercury
+> I've just got to get out of this prison cell. One day I'm going to be free. 
+~ Freddie Mercury
 
-> Without you, I don't know what I believe in. Without you, hell should be easier. ~ John Baldwin Gourley
+> Without you, I don't know what I believe in. Without you, hell should be easier. 
+~ John Baldwin Gourley
 
-> I just want to be evil. ~ John Baldwin Gourley
+> I just want to be evil. 
+~ John Baldwin Gourley
 
-> Why don't you dance like you're sick in your mind? ~ Glass Animals
+> Why don't you dance like you're sick in your mind? 
+~ Glass Animals
 
-> Pleasantly caving in;  I come undone. ~ Josh Homme
+> Pleasantly caving in;  I come undone. 
+~ Josh Homme
 
-> Everybody makes mistakes, but it seems it's always mine that keep on stinging. ~ James Murphy / LCD Soundsystem 
+> Everybody makes mistakes, but it seems it's always mine that keep on stinging. 
+~ James Murphy / LCD Soundsystem 
 
-> Let's embrace the point of no return. ~ Lorde
+> Let's embrace the point of no return. 
+~ Lorde
 
+> Know all your enemies. We know who our enemies are. 
+~ Jeff Mangum / Neutral Milk Hotel 
 ---
 
 ## The Written Word:
 
-> Buy the ticket; ride the ride. ~ Hunter S. Thompson  
+> Buy the ticket; ride the ride. 
+~ Hunter S. Thompson  
 
-> You have always approached everything terrible trustfully. You have wanted to pet every monster. ~ Friedrich Nietzsche  
+> You have always approached everything terrible trustfully. You have wanted to pet every monster. 
+~ Friedrich Nietzsche  
 
-> The privilege of a lifetime is being who you are. ~ Joseph Campbell
+> The privilege of a lifetime is being who you are. 
+~ Joseph Campbell
+
+> 
 
 ---
 
 ## Said sayings:
 
-> The function of music is to release us from the tyranny of conscious thought. ~ Sir Thomas Beecham
+> The function of music is to release us from the tyranny of conscious thought. 
+~ Sir Thomas Beecham
 
-> You are an aperture through which The Universe is looking at and exploring Itself. ~ Alan Watts
+> You are an aperture through which The Universe is looking at and exploring Itself. 
+~ Alan Watts

@@ -1,7 +1,109 @@
 ### TALKING IN CAPITAL NUMBERS
+#### ROOTOFPI RE.VERSION.4(?)
 ### INITIAL SITE CONFIGURATION
 
-# baseURL = 'http://alephalpha0.space'
-languageCode = 'en-us'
-title = 'the ROOTOFPI +++ Talking In Capital Numbers'
+###########################################################
+#################### THE CORE SETTINGS OF THE HUGO BEAST
+# baseURL = "http://alephalpha0.space"
+baseURL = "http://127.0.0.1:1313"
+title = "the ROOTOFPI ++++ Talking In Capital Numbers"
+author = "alephalpha0 // DK3"
+copyright = "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) 2020-2021"
+description = "Main entrance to alephalpha0's digital garden. ROOTOFPI functions as a blog, photography exhibit, and link-hoarde."
+keywords = "blog,developer,personal,photography,technical article,digital garden,indieweb"
+info = ["Amateur Hacktivist", "Magician","Space Cowboy"]
+avatarURL = "images/avatar.jpg"
+#gravatar = "john.doe@example.com"
+footerContent = "Mors certa; vita incerta"
+since = 2020
+commit = "https://github.com/alephalpha0/rootofpi/tree/"
+#################### SITE LANGUAGE STUFF
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
+#################### TECHNICAL MUMBO-JUMBO
+paginate = 7
 theme = "hugo-coder"
+maxSeeAlsoItems = 5
+colorScheme = "auto"
+hideColorSchemeToggle = false
+
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+enableInlineShortcodes = true
+dateFormat = "January 02, 2006"
+hideFooter = false
+hideCredits = false
+hideCopyright = false
+footnoteReturnLinkContents = "↩"
+
+customCSS = []
+customSCSS = []
+customJS = []
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+  author = "authors"
+
+[[menu.main]]
+  name = "Blog"
+  weight = "1"
+  url = "/blog/"
+  target = "_self"
+[[menu.main]]
+  name = "WiFi AP"
+  weight = "2"
+  url = "/wifiap/"
+  target = "_self"
+[[menu.main]]
+  name = "S.O.C."
+  weight = "3"
+  url = "/soc/"
+  target = "_self"
+
+[params]
+  [params.goatCounter]
+    code = "rootofpi"
+
+  [[params.social]]
+    name = "GitHub"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/alephalpha0"
+  [[params.social]]
+    name = "GitLab"
+    icon = "fa fa-gitlab"
+    weight = 1
+    url ="https://gitlab.com/alephalpha0"
+  [[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 1
+    url = "https://twitter.com/replicantArray"
+  [[params.social]]
+    name = "RSS"
+    icon = "fa fa-rss"
+    weight = 1
+    url = "http://alephalpha0.space/index.xml"
+    rel = "alternate"
+    type = "application/rss+xml"
+   
+[module]
+  [module.hugoVersion]
+    min = "0.77.0"
+
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+[services]
+  [services.twitter]
+    disableInlineCSS = true

@@ -1,24 +1,22 @@
-# Folders to ignore
+###### Folders to ignore ;;;;;;;;;;;;;;;;;;;;;;;;
+###### Base Dirs. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 .git/
-neov2/output/
-neov2/__pycache__/
-output/
-__pycache__/
+###### General Anywhere Dirs ;;;;;;;;;;;;;;;;;;;;
+*/output/
+*/__pycache__/
+*/public/
+###### Site Version Specific Dirs ;;;;;;;;;;;;;;;
 terminalGazing/themes/
-public/
 terminalGazing/static/img/
-terminalGazing/public
-
-# General files
+talkingInNumbers/log/
+###### General files ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 CNAME
 Makefile
-terminalGazing/.hugo_build.lock
-
-# Ignore docs files
+.hugo_build.lock
+###### Ignore docs files ;;;;;;;;;;;;;;;;;;;;;;;;
 _gh_pages
 .ruby-version
-
-# Numerous always-ignore extensions
+###### Numerous always-ignore extensions ;;;;;;;;
 *.zip
 *.diff
 *.err
@@ -28,8 +26,7 @@ _gh_pages
 *.swo
 *.swp
 *.vi
-
-# OS or Editor folders
+###### OS or Editor folders ;;;;;;;;;;;;;;;;;;;;;
 .DS_Store
 Thumbs.db
 .cache
@@ -41,3 +38,6 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
+###### EOF ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+talkingInNumbers/resources/_gen/assets/scss/scss/coder.scss_fd4b5b3f9a48bc0c7f005d2f7a4cc30f.content

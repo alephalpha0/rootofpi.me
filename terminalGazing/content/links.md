@@ -9,10 +9,13 @@ categories: ["site-pages"]
 ---
 # THE BEGUILING NEU GOD: ELECTRICAl MECHANICAL ETHERSPACE
 ## Game & System Emulation
+### Precise Back-Ends && Functioning Front-Ends
+* [Retro Arch](https://retroarch.com)
 ### Blogs
 * [ReAssembler](http://reassembler.blogspot.com/)
 ---
 ## Fantasy Computers
+* [PICO-8](https://www.lexaloffle.com/pico-8.php)
 ---
 ## TECHNOLOGY ESOTERICA
 ### Operating Systems:
@@ -39,6 +42,8 @@ categories: ["site-pages"]
 ## 
 ### Digital Artistry:
 * [Party In The Front](https://luismelo.net)
+* [RESET SURVIVOR](https://www.resetsurvivor.com)
+* [jn3008](https://jn3008.tumblr.com/)
 ---
 ---
 ## ART + TECHNOLOGY
