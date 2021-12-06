@@ -9,7 +9,7 @@ baseURL = "http://127.0.0.1:1313"
 title = "the ROOTOFPI ++++ Talking In Capital Numbers"
 author = "alephalpha0 // DK3"
 copyright = "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) 2020-2021"
-description = "Main entrance to alephalpha0's digital garden. ROOTOFPI functions as a blog, photography exhibit, and link-hoarde."
+description = "Main entrance to alephalpha0's digital garden. ROOTOFPI functions as a blog, photography exhibit, image collection, and link-hoarde."
 keywords = "blog,developer,personal,photography,technical article,digital garden,indieweb"
 info = ["Amateur Hacktivist", "Magician","Space Cowboy"]
 avatarURL = "images/avatar.jpg"
@@ -17,22 +17,27 @@ avatarURL = "images/avatar.jpg"
 footerContent = "Mors certa; vita incerta"
 since = 2020
 commit = "https://github.com/alephalpha0/rootofpi/tree/"
-#################### SITE LANGUAGE STUFF
+###########################################################
+#################### SITE LANGUAGE/LOCALE
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
+dateFormat = "January 02, 2006"
+###########################################################
 #################### TECHNICAL MUMBO-JUMBO
-paginate = 7
+paginate = 8
 theme = "hugo-coder"
-maxSeeAlsoItems = 5
+maxSeeAlsoItems = 3
 colorScheme = "auto"
 hideColorSchemeToggle = false
+enableEmoji = true
+enableInlineShortcodes = true
 
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
-enableEmoji = true
-enableInlineShortcodes = true
-dateFormat = "January 02, 2006"
+
+
+
 hideFooter = false
 hideCredits = false
 hideCopyright = false
@@ -54,16 +59,46 @@ customJS = []
   url = "/blog/"
   target = "_self"
 [[menu.main]]
-  name = "WiFi AP"
+  name = "Articles"
   weight = "2"
-  url = "/wifiap/"
+  url = "/articles/"
   target = "_self"
 [[menu.main]]
-  name = "S.O.C."
+  name = "Stream of Consciousness"
   weight = "3"
   url = "/soc/"
   target = "_self"
-
+[[menu.main]]
+  name = "Mixtapes"
+  weight = "4"
+  url = "/mixtape/"
+  target = "_self"
+[[menu.main]]
+  name = "Photography"
+  weight = "5"
+  url ="/photos/"
+  target = "_self"
+[[menu.main]]
+  name = "WiFi AP"
+  weight = "6"
+  url = "/wifiap/"
+  target = "_self"
+[[menu.main]]
+  name = "Gifs"
+  weight = "7"
+  url = "/gifs/"
+  target = "_self"
+[[menu.main]]
+  name = "Photo Manipulations"
+  weight = "8"
+  url ="/manip/"
+  target = "_self"
+[[menu.main]]
+  name = "Screen Shots"
+  weight = "9"
+  url ="/ss/"
+  target = "_self"
+    
 [params]
   [params.goatCounter]
     code = "rootofpi"
