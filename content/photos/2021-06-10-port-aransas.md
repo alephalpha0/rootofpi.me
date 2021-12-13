@@ -5,4 +5,4 @@ draft: false
 categories: ["photographs"]
 ---
 
-![Walking the beach of the Gulf of Mexico](/img/photo/port_aransas_2021.jpg)
+![Walking the beach of the Gulf of Mexico](/img/photos/port_aransas_2021.jpg)

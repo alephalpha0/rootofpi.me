@@ -1,5 +1,5 @@
 ---
-title: "2021 09 25 Past History Haunting"
+title: "Past History Haunting"
 date: 2021-09-25T23:33:33Z
 draft: false
 categories: ["blog"]

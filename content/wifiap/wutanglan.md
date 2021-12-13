@@ -2,8 +2,8 @@
 title: "WiFi - WutangLAN"
 date: 2021-07-14T01:59:05Z
 draft: false
-categories: ["screenshots"]
+categories: ["WiFi AP"]
 tags: ["wifi"]
 ---
 
-![Wutang LAN](/img/ss/wifiwutanglan.png)
+![Wutang LAN](/img/wifiap/wifiwutanglan.png)

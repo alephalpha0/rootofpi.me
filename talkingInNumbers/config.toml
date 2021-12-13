@@ -4,8 +4,8 @@
 
 ###########################################################
 #################### THE CORE SETTINGS OF THE HUGO BEAST
-# baseURL = "http://alephalpha0.space"
-baseURL = "http://127.0.0.1:1313"
+baseURL = "http://alephalpha0.space"
+#baseURL = "http://127.0.0.1:1313"
 title = "the ROOTOFPI ++++ Talking In Capital Numbers"
 author = "alephalpha0 // DK3"
 copyright = "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) 2020-2021"
@@ -131,66 +131,39 @@ customJS = []
   [module.hugoVersion]
     min = "0.77.0"
 
-  [[module.mounts]]
-    source = '~/rootofpi/content/blog'
-    includeFiles = '*.md'
-    target = 'content/blog'
-  [[module.mounts]]
-    source = '~/rootofpi/content/articles'
-    includeFiles = '*.md'
-    target = 'content/articles'
-  [[module.mounts]]
-    source = '~/rootofpi/content/gifs'
-    includeFiles = '*.md'
-    target = 'content/gifs'
-  [[module.mounts]]
-    source = '~/rootofpi/content/manip'
-    includeFiles = '*.md'
-    target = 'content/manip'
-  [[module.mounts]]
-    source = '~/rootofpi/content/mixtape'
-    includeFiles = '*.md'
-    target = 'content/mixtape'
-  [[module.mounts]]
-    source = '~/rootofpi/content/photos'
-    includeFiles = '*.md'
-    target = 'content/photos'
-  [[module.mounts]]
-    source = '~/rootofpi/content/soc'
-    includeFiles = '*.md'
-    target = 'content/soc'
-  [[module.mounts]]
-    source = '~/rootofpi/content/ss'
-    includeFiles = '*.md'
-    target = 'content/ss'
-  [[module.mounts]]
-    source = '~/rootofpi/content/wifiap'
-    includeFiles = '*.md'
-    target = 'content/wifiap'
-  [[module.mounts]]
-    source = '~/rootofpi/content/assets/images'
-    includeFiles = '**'
-    target = 'static/img'
-  [[module.mounts]]
-    source = 'static'
-    target = 'static'
-  [[module.mounts]]
-    source = 'layouts'
-    target = 'layouts'
-  [[module.mounts]]
-    source = 'data'
-    target = 'data'
-  [[module.mounts]]
-    source = 'assets'
-    target = 'assets'
-  [[module.mounts]]
-    source = 'i18n'
-    target = 'i18n'
-  [[module.mounts]]
-    source = 'archetypes'
-    target = 'archetypes'
-
-
+  [[module.imports]]
+    path = "/data/data/com.termux/files/home/rootofpi/content"
+    disabled = false
+	  [[module.imports.mounts]]
+	    source = 'blog'
+	    target = 'content/blog'
+	  [[module.imports.mounts]]
+	    source = 'articles'
+	    target = 'content/articles'
+	  [[module.imports.mounts]]
+	    source = 'gifs'
+	    target = 'content/gifs'
+	  [[module.imports.mounts]]
+	    source = 'manip'
+	    target = 'content/manip'
+	  [[module.imports.mounts]]
+	    source = 'mixtape'
+	    target = 'content/mixtape'
+	  [[module.imports.mounts]]
+	    source = 'photos'
+	    target = 'content/photos'
+	  [[module.imports.mounts]]
+	    source = 'soc'
+	    target = 'content/soc'
+	  [[module.imports.mounts]]
+	    source = 'ss'
+	    target = 'content/ss'
+	  [[module.imports.mounts]]
+	    source = 'wifiap'
+	    target = 'content/wifiap'
+	  [[module.imports.mounts]]
+	    source = 'assets/images'
+	    target = 'static/img'
 
 [privacy]
   [privacy.vimeo]

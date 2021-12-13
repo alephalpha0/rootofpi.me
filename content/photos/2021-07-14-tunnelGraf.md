@@ -7,4 +7,4 @@ tags: ["the underside", "graffiti"]
 location: "S Henderson Street Bridge Under i30. West side sidewalk."
 ---
 
-![Tunnel Graffiti](/img/photo/tunnelGraf.jpg)
+![Tunnel Graffiti](/img/photos/tunnelGraf.jpg)

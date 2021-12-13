@@ -8,4 +8,4 @@ summary: "You've got power, thanks to Elvis. Don't ever forget this fact. "
 location: "North Richland Hills"
 ---
 
-![Elvis' Power Grid](/img/photo/elvisPower.jpg)
+![Elvis' Power Grid](/img/photos/elvisPower.jpg)

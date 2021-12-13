@@ -5,4 +5,4 @@ draft: false
 categories: ["photographs"]
 ---
 
-![Ghosts XXI](/img/photo/ghostsXXI.jpg)
+![Ghosts XXI](/img/photos/ghostsXXI.jpg)

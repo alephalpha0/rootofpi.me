@@ -6,4 +6,4 @@ categories: ["photographs"]
 ---
 
 
-![Blue Portals](/img/photo/bluePortals.jpg)
+![Blue Portals](/img/photos/bluePortals.jpg)

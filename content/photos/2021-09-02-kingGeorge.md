@@ -5,4 +5,4 @@ draft: false
 categories: ["photographs"]
 ---
 
-![King George](/img/photo/kingGeorge.jpg)
+![King George](/img/photos/kingGeorge.jpg)
