@@ -24,7 +24,6 @@ defaultContentLanguage = "en"
 dateFormat = "January 02, 2006"
 ###########################################################
 #################### TECHNICAL MUMBO-JUMBO
-newContentEditor = "micro"
 paginate = 8
 theme = "hugo-coder"
 maxSeeAlsoItems = 3
@@ -37,17 +36,6 @@ enableInlineShortcodes = true
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
-
-[security]
-  enableInlineShortcodes = true
-  [security.exec]
-    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^micro$']
-    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']        
-  [security.funcs]
-    getenv = ['^HUGO_']
-                                                                    [security.http]
-    methods = ['(?i)GET|POST']
-    urls = ['.*']
 
 hideFooter = false
 hideCredits = false
