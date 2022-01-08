@@ -4,8 +4,8 @@
 
 ###########################################################
 #################### THE CORE SETTINGS OF THE HUGO BEAST
-#baseURL = "http://alephalpha0.space"
-baseURL = "http://127.0.0.1:1313"
+baseURL = "http://alephalpha0.space"
+#baseURL = "http://127.0.0.1:1313"
 title = "the ROOTOFPI ++++ Talking In Capital Numbers"
 author = "alephalpha0 // DK3"
 copyright = "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) 2020-2021"
@@ -16,7 +16,7 @@ avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 footerContent = "Mors certa; vita incerta"
 since = 2020
-commit = "https://github.com/alephalpha0/rootofpi/tree/"
+commit = "https://github.com/alephalpha0/rootofpi"
 ###########################################################
 #################### SITE LANGUAGE/LOCALE
 languageCode = "en"

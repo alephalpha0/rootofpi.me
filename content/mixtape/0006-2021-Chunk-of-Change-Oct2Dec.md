@@ -9,7 +9,9 @@ summary: "MAKE SURE THIS ISNT CLEAR AT FUCKING ALL. JUST DO WHAT YOU WANT BUT MA
 
 ## __MIXTAPE--TITLE__
 
-* Artist - Song __[ALBUM]__
-*  __[]__
-*  __[]__
-**TBA**
+* Golden Features - Raka  __[Raka]__
+* Lusine - Not Alone (ft. Jenn Champion) __[Retrace]__
+* Peaches - Close Up (ft. Kim Gordon) __[Rub]__
+* !!! - Dancing Is The Best Revenge __[Shake The Shudder]__
+* Mindchatter - It's Been You __[Imaginary Audience]__
+* Yaeji - 29 __[Year to Year / 29]__
