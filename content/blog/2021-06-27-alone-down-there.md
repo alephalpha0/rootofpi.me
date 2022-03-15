@@ -3,7 +3,7 @@ title: "Alone Down There"
 date: 2021-06-27T15:03:50Z
 draft: false
 categories: ["blog"]
-tags: ["mental state", "methful life", "sobriety", "terminal blues"]
+tags: ["mental state", "meth chronicles", "sobriety", "terminal blues"]
 summary: ""
 location: "Garden, mid row, Sam House."
 ---

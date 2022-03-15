@@ -3,7 +3,7 @@ title: "Clarity Statement"
 date: 2020-08-23T22:03:53Z
 draft: false
 categories: ["blog"]
-tags: ["methful life", "manifesto", "space cowboy", "queer not gay"]
+tags: ["meth chronicles", "manifesto", "space cowboy", "queer not gay"]
 summary: "This is my story. There are many like it, but this one is mine."
 location: "Aboard the good ship replicantArray"
 ---

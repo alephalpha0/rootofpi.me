@@ -3,7 +3,7 @@ title: "Denial Will Not Serve the Situation"
 date: 2021-10-15T16:45:27Z
 draft: false
 categories: ["blog"]
-tags: ["insanity", "methful life", "ramblings of an asylum inmate", "health"]
+tags: ["insanity", "meth chronicles", "ramblings of an asylum inmate", "health"]
 summary: ""
 location: "Upper Deck of TRE Train 1059 West-Bound From Union Station to T&P Station."
 ---

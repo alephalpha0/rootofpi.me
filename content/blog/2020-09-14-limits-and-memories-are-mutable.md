@@ -3,7 +3,7 @@ title: "Limits and Memories Are Mutable"
 date: 2020-09-14T22:07:30Z
 draft: false
 categories: ["blog"]
-tags: ["meth chronicles", "ramblings ofan asylum inmate", "my shields are down"]
+tags: ["meth chronicles", "ramblings of an asylum inmate", "my shields are down"]
 summary: "my hard limits seem to not be as hard as they once were. and i cannot with any certainty say what is my rock bottom or a general boundary to myself at this current time."
 location: "711 eating area, victory plaza, downtown, dallas, tx, usa, north america, earth"
 ---

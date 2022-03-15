@@ -1,5 +1,5 @@
 ---
-title: "[2020 10 XX] Lowkey Thotful"
+title: "[0003] Lowkey Thotful"
 date: 2021-09-22T09:01:50Z
 draft: false
 categories: ["mixtape"]

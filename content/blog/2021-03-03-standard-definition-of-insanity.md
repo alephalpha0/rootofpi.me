@@ -3,7 +3,7 @@ title: "Standard Definition of Insanity"
 date: 2021-03-03T05:32:20Z
 draft: false
 categories: ["blog"]
-tags: ["methful life", "ramblings of an asylum inmate", "insanity"]
+tags: ["meth chronicles", "ramblings of an asylum inmate", "insanity"]
 summary: "Just two hot-mess tweakers using the public transportation system to make a visit to the ER."
 location: "Huddled under blankets, but not in a blanket fort."
 ---
